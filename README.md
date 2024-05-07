@@ -1,5 +1,7 @@
 # kdevops-results-archive
 
+<img src="images/kdevops-archive.png" width=250 align=center alt="kdevops archive logo">
+
 This is a collection of results for tests run with
 [kdevops](https://github.com/linux-kdevops/kdevops)
 on different kernels. Each user has their own dedicated
